@@ -37,7 +37,7 @@ File: [`sketch_ac_full_1.ino`](./sketch_ac_full_1.ino)
 Below is the functional prototype used for testing.  
 Although implemented in a temporary plastic enclosure, it demonstrates complete integration of sensors, logic, and IR control.
 
-![Prototype setup](./prototype.jpg)
+![Prototype setup](./Screenshot_20251018-180653~2.png)
 *ESP32-based prototype with PIR and magnetic door sensors.*
 
 ##  Tools and Technologies
